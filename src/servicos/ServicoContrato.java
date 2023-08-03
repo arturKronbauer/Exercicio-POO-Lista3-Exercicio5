@@ -27,6 +27,4 @@ public class ServicoContrato {
 			contrato.getParcelas().add(new Parcela(vencimentoParcela,cota));
 		}
 	}
-	
-	
 }
